@@ -2,7 +2,7 @@
 
 Last Updated: October 23, 2025
 
-By installing and using the "Intelligent Comment Assistant" Google Slides Add-on ("the Add-on"), you agree to these Terms of Service.
+By installing and using the "Comment Assistant" Google Slides™ Add-on ("the Add-on"), you agree to these Terms of Service.
 
 ## 1. Service "As Is"
 
@@ -17,3 +17,5 @@ This includes, but is not limited to, any errors or omissions in your presentati
 ## 3. Changes to Terms
 
 These terms may be updated from time to time. Your continued use of the Add-on after any changes constitutes your acceptance of the new Terms.
+
+Google Slides™ is a trademark of Google LLC.
