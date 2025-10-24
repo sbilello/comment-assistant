@@ -1,8 +1,8 @@
-# Privacy Policy for Intelligent Comment Assistant
+# Privacy Policy for Comment Assistant
 
 Last Updated: October 23, 2025
 
-This Privacy Policy describes how the "Intelligent Comment Assistant" Google Slides Add-on ("the Add-on") handles your information.
+This Privacy Policy describes how the "Comment Assistant" Google Slides™ Add-on ("the Add-on") handles your information.
 
 This Add-on is designed to run entirely within your Google account.
 
@@ -29,3 +29,5 @@ Your information is used **only** to make the Add-on work.
 **We do not store, save, or collect any of your personal data or your Google Slides content on any external server.**
 
 All processing is done locally within your browser and your Google account. We do not share, sell, or transmit any of your data with any third party.
+
+Google Slides™ is a trademark of Google LLC.
